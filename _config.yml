@@ -5,8 +5,8 @@ title: Jacob Claessens Theme | Theme for Jekyll
 description: Jacob Claessens is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
 # baseurl: "/JacobClaessens" # the subpath of your site, e.g. /blog
 # url: "/JacobClaessens" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "claessens14.github.io" # the subpath of your site, e.g. /blog
+url: "JacobsWebsite" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
