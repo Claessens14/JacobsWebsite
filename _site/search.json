@@ -1,70 +1,6 @@
 [
   
     {
-      "title"    : "Vim Helper Note",
-      "category" : "",
-      "tags"     : "code",
-      "url"      : "/vim-terms/",
-      "date"     : "2022-01-04 13:04:30 +0100"
-    } ,
-  
-    {
-      "title"    : "Mac Privacy",
-      "category" : "",
-      "tags"     : "Privacy and Computers",
-      "url"      : "/Mac-Privacy/",
-      "date"     : "2021-09-06 00:04:30 +0200"
-    } ,
-  
-    {
-      "title"    : "My Ai Content / News recommendations",
-      "category" : "",
-      "tags"     : "Artificial Intelligence and Reinforcement Learning",
-      "url"      : "/ai-news-and-content/",
-      "date"     : "2021-09-05 14:04:30 +0200"
-    } ,
-  
-    {
-      "title"    : "My Ai Content / News recommendations",
-      "category" : "",
-      "tags"     : "Artificial Intelligence and Reinforcement Learning",
-      "url"      : "/vim-terms/",
-      "date"     : "2021-09-05 14:04:30 +0200"
-    } ,
-  
-    {
-      "title"    : "TEMPLATE",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/TEMPLATE/",
-      "date"     : "2021-09-05 14:04:30 +0200"
-    } ,
-  
-    {
-      "title"    : "Ai Terms",
-      "category" : "",
-      "tags"     : "Artificial Intelligence and Reinforcement Learning",
-      "url"      : "/Ai-terms/",
-      "date"     : "2021-09-04 14:03:30 +0200"
-    } ,
-  
-    {
-      "title"    : "History of Ethics",
-      "category" : "",
-      "tags"     : "PEO, Tort, and Law",
-      "url"      : "/History-of-Ethics/",
-      "date"     : "2021-04-14 14:03:30 +0200"
-    } ,
-  
-    {
-      "title"    : "Interview Things to know",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/Interview-Question-Things-to-know/",
-      "date"     : "2021-03-08 13:03:30 +0100"
-    } ,
-  
-    {
       "title"    : "Student Living - Free Tier Hunting",
       "category" : "",
       "tags"     : "Engineering, Cloud, Student, and Free Tier",
@@ -89,67 +25,11 @@
     } ,
   
     {
-      "title"    : "iPhone Security and Privacy",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/iphone-privacy/",
-      "date"     : "2021-02-05 13:03:30 +0100"
-    } ,
-  
-    {
-      "title"    : "Maxout Productivity",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/Speed/",
-      "date"     : "2021-02-05 13:03:30 +0100"
-    } ,
-  
-    {
       "title"    : "Assembling a team? Your going need some tools",
       "category" : "",
       "tags"     : "Engineering, Team, Development, DevOps, and Market Research",
       "url"      : "/Building-a-team-Heres-what-you-need-to-know/",
       "date"     : "2021-02-05 09:03:30 +0100"
-    } ,
-  
-    {
-      "title"    : "Personal Privacy Overhaul",
-      "category" : "",
-      "tags"     : "Engineering, Life Styke, and Privacy",
-      "url"      : "/PersonalPrivacyOverhaul/",
-      "date"     : "2021-02-04 11:08:40 +0100"
-    } ,
-  
-    {
-      "title"    : "Cheat Sheet - Python, Javascript, Swift",
-      "category" : "",
-      "tags"     : "Engineering, Coding, Swift, Python, Javascript, and Node.js",
-      "url"      : "/PythonJavaScriptSwift/",
-      "date"     : "2021-02-02 11:01:40 +0100"
-    } ,
-  
-    {
-      "title"    : "Run Pytorch on Mobile",
-      "category" : "",
-      "tags"     : "Engineering, Coding, Swift, Python, PyTorch, Machine Learning, and CoreML",
-      "url"      : "/RunPyTorchOnMobile/",
-      "date"     : "2021-02-02 09:07:40 +0100"
-    } ,
-  
-    {
-      "title"    : "Best Apis for stock Bros",
-      "category" : "",
-      "tags"     : "Engineering, APIs, Stocks, and biz",
-      "url"      : "/Best-Apis-For-Stock-Bros/",
-      "date"     : "2021-02-01 13:03:30 +0100"
-    } ,
-  
-    {
-      "title"    : "Active vs Passive Devices and the controls math behind them",
-      "category" : "",
-      "tags"     : "Engineering, Electrical Devices, Computation, and Controls",
-      "url"      : "/ActiveVpassive/",
-      "date"     : "2020-03-14 11:03:40 +0100"
     } 
   
 ]

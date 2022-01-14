@@ -31,3 +31,4 @@ export GREP_OPTIONS='--color=auto'
 
 Reboot and you should see colour now. If you like, Uncomment the last line, and enter a default path command. I included Grep in there, I hope to add a tutorial on that soon, its fast and useful.  
 If you would like to see more commands, checkout this persons [profile](https://gist.github.com/hernamesbarbara/1937937), there are many to comb through.
+
