@@ -6,7 +6,7 @@ description: Jacob Claessens is an easy and simple theme for Jekyll. Dark colors
 # baseurl: "/JacobClaessens" # the subpath of your site, e.g. /blog
 # url: "/JacobClaessens" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" #"claessens14.github.io" # the subpath of your site, e.g. /blog
-url: "JacobsWebsite" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
